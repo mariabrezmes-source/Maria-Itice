@@ -24,9 +24,6 @@ Las actividades propuestas para solidificar el conocimiento adquirido son las si
  
   - Tendreis que contestar a los siguientes 3 kahoots!:
 
-<img width="1080" height="1080" alt="Kahoot-Logo-png" src="https://github.com/user-attachments/assets/41358598-7bde-4b4d-b725-aaf151632e26" />
-
-
 Kahoot! 1:
       https://create.kahoot.it/details/revolucion-industrial-causas/419adf2c-505b-4840-80eb-4fc454fe7022
 
