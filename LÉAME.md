@@ -17,6 +17,7 @@ En este documento se verán una serie de enlaces tanto de videos como de documen
    
    Enlace a lista de reproducción de documentos
    - https://www.linkslist.app/9BgpPWj
+   
    Os propongo una serie de paginas webs, no con el fin de que veais y leais todas, sino con el fin de que aprendais ya sea viendo 1 pagina web como si necesitais ver    todas.
 
 Las actividades propuestas para solidificar el conocimiento adquirido son las siguientes:
