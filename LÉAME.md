@@ -24,7 +24,8 @@ Las actividades propuestas para solidificar el conocimiento adquirido son las si
  
   - Tendreis que contestar a los siguientes 3 kahoots!:
 
-<img width="1000" height="557" alt="Kahoot" src="https://github.com/user-attachments/assets/23ff2631-30de-4cf4-a8c3-7c1061de0141" />
+<img width="1080" height="1080" alt="Kahoot-Logo-png" src="https://github.com/user-attachments/assets/41358598-7bde-4b4d-b725-aaf151632e26" />
+
 
 Kahoot! 1:
       https://create.kahoot.it/details/revolucion-industrial-causas/419adf2c-505b-4840-80eb-4fc454fe7022
@@ -38,6 +39,9 @@ Kahoot! 3:
   - En grupos de 4 personas, tendreis que elaborar un cartel que recoja información sobre la Revolución Industrial.
 
 Las actividades se realizaran en kahoot y en draw.io, las cuales son dos paginas web que no requieren de registro.
+
+<img width="320" height="320" alt="draw-io-logo-png_seeklogo-451991" src="https://github.com/user-attachments/assets/6491edc0-53d9-48d9-9a88-360c3070e217" />
+
 
 Se planteará un debate en clase sobre el papel de las minorias durante la revolucion y el cambio que tuvo antes y despues de la revolucion. 
 
