@@ -4,7 +4,9 @@ Hola a todos, en este bloque estudiaremos la revolucion industral, desde su orig
 
 En este documento se verán una serie de enlaces tanto de videos como de documentos/paginas web sobre el tema  
   Enlace a lista de reproducción de Youtube
+  
   <img width="270" height="187" alt="descarga (1)" src="https://github.com/user-attachments/assets/e889a821-7d3e-46e1-b1fa-6e6db46adf26" />
+   
    - https://youtube.com/playlist?list=PL7Fhz2zdgfFnd441Xwu8IIjPTS8p7INuq&si=lSRCw9FywWJe0sND
   Antes de ver los videos, me gustaria que os fijaseis en la evolución de la sociedad a lo largo de la revolución y el surgimiento de nuevas clases sociales. Tambien    propongo observar a las minorias ya que en clase debatiremos sobre un tema que explicaré mas adelante.
    
