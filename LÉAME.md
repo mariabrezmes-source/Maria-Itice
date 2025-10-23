@@ -2,6 +2,9 @@
 Clase sobre la revolucion industrial 4ºESO
 Hola a todos, en este bloque estudiaremos la revolucion industral, desde su origen, hasta su desarrollo, como las distintas formas de pensamiento que surgieron, etc...
 
+![62a3e60e0a31789d57189fb382af2fe1](https://github.com/user-attachments/assets/edf3ef40-344b-4d17-9f7b-fceae2fe9ffc)
+
+
 En este documento se verán una serie de enlaces tanto de videos como de documentos/paginas web sobre el tema  
   Enlace a lista de reproducción de Youtube
   
