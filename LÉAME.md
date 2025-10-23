@@ -23,11 +23,15 @@ Las actividades propuestas para solidificar el conocimiento adquirido son las si
   - Primero tendreis que elaborar un mapa conceptual con los conocimientos adquiridos y después hacer la siguiente actividad
  
   - Tendreis que contestar a los siguientes 3 kahoots!:
-    <img width="1000" height="557" alt="Kahoot" src="https://github.com/user-attachments/assets/16ddab77-6d8a-41cd-b7b2-a3746d37e5ad" />
+
+<img width="1000" height="557" alt="Kahoot" src="https://github.com/user-attachments/assets/23ff2631-30de-4cf4-a8c3-7c1061de0141" />
+
 
 
       https://create.kahoot.it/details/revolucion-industrial-causas/419adf2c-505b-4840-80eb-4fc454fe7022
+
       https://create.kahoot.it/details/la-revolucion-industrial/3e8e078a-d377-4c74-9c4e-f31741dc2f60
+    
       https://create.kahoot.it/details/la-revolucion-industrial/57e9f0f9-0f38-499c-8c94-9631ef2695ed
 
   - En grupos de 4 personas, tendreis que elaborar un cartel que recoja información sobre la Revolución Industrial.
