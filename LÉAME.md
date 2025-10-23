@@ -41,7 +41,7 @@ Kahoot! 3:
 Las actividades se realizaran en kahoot y en draw.io, las cuales son dos paginas web que no requieren de registro.
 
 <img width="320" height="320" alt="draw-io-logo-png_seeklogo-451991" src="https://github.com/user-attachments/assets/6491edc0-53d9-48d9-9a88-360c3070e217" />
-
+<img width="320" height="320" alt="Kahoot-Logo-png" src="https://github.com/user-attachments/assets/41358598-7bde-4b4d-b725-aaf151632e26" />
 
 Se planteará un debate en clase sobre el papel de las minorias durante la revolucion y el cambio que tuvo antes y despues de la revolucion. 
 
